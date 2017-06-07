@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
             R.drawable.im8,
             R.drawable.im9,
             R.drawable.im10,
-            R.drawable.im11, };
+            R.drawable.im11};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
