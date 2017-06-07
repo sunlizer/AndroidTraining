@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CustomAdapterList</string>
+    <string-array name="socialMedia">
+        <item>Facebook</item>
+        <item>Flicker</item>
+        <item>Pinterest</item>
+        <item>Instagram</item>
+        <item>Google+</item>
+        <item>Twitter</item>
+        <item>Tumblr</item>
+        <item>Youtube</item>
+        <item>LinkedIn</item>
+        <item>Yahoo</item>
+        <item>Digg</item>
+    </string-array>
+    <string-array name="about">
+        <item>About 1</item>
+        <item>About 2</item>
+        <item>About 3</item>
+        <item>About 4</item>
+        <item>About 5</item>
+        <item>About 6</item>
+        <item>About 7</item>
+        <item>About 8</item>
+        <item>About 9</item>
+        <item>About 10</item>
+        <item>About 11</item>
+    </string-array>
+</resources>

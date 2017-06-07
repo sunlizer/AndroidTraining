@@ -24,8 +24,8 @@ public class MainActivity extends AppCompatActivity {
        // ll = (LinearLayout) findViewById(R.id.my_linear_layout);
        // ll.addView(v);
 
-        rl = (RelativeLayout) findViewById(R.id.activity_main);
-        rl.addView(v);
+       // rl = (RelativeLayout) findViewById(R.id.activity_main);
+        //rl.addView(v);
 
 
     }
